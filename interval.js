@@ -8,7 +8,7 @@
 // // 2 parameter
 // setTimeout(() => {
 //     console.log(3);
-// }, 3000);//1000 miliseconds = 1 second
+// }, 3000);//1000 milliseconds = 1 second
 
 // console.log(4);
 // console.log(5);
